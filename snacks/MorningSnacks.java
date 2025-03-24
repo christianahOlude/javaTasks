@@ -1,5 +1,3 @@
-package snacks;
-
 import java.util.ArrayList;
 
 public class MorningSnacks {
